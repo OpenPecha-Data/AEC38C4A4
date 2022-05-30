@@ -1,0 +1,25 @@
+segment_sources:
+  I68F62FB1:
+    type: origin_type
+    relation: translation
+    language: en
+  I23EBC536:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  9f60c282a73244c0be8d0658774e3ca8:
+    I68F62FB1: cef90a9ca9ac4a6daa2663074887abce
+    I23EBC536: 0fc1e51d218f46b0a15284748dd97bb3
+  e2efc157e11c4ade814c2d085cd80f5a:
+    I68F62FB1: a8857ab1a6804b4789a6fa05667958a7
+    I23EBC536: 62324f9866a846048fa4a7879624117c
+  0ae5fe7e3d38434881195865eb0b058c:
+    I68F62FB1: 16d5f3cb76c04e4ebed253b623a679a4
+    I23EBC536: 3cc2e3cc0a584e109eed01b0fddfbe00
+  49ae5cee8f6348869cde3061fc6680cf:
+    I68F62FB1: 4bc7dbb645fc4797ac9381fe0a216f39
+    I23EBC536: 8ced5531fe11451abe6508d031a6e629
+  0776854c0ed045b282e80d77535943ca:
+    I68F62FB1: 89bf6ec7a18a4306acace36fb99f5d9f
+    I23EBC536: 0df436ef59ba4325bae8dc911073ee8b
